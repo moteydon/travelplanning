@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281868381414",
+    "project_id": "travelplanning-64738",
+    "storage_bucket": "travelplanning-64738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281868381414:android:f5577e28ce622149081f27",
+        "android_client_info": {
+          "package_name": "com.example.travelplanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281868381414-oh029mhc9qbe4mqre9rqlknqrcie23a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBbOMijHe4zXYMXHVl4Pf8Bmf6197of4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281868381414-oh029mhc9qbe4mqre9rqlknqrcie23a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
